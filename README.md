@@ -3,7 +3,7 @@
 <p align="center"><a href="https://github.com/NNBnh/sed-collections/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/sed-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/sed-collections/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/sed-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/sed-collections/network/members"><img src="https://img.shields.io/github/forks/NNBnh/sed-collections?labelColor=585858&color=F7CA88&style=flat-square"></a> <a href="https://github.com/NNBnh/sed-collections/issues"><img src="https://img.shields.io/github/issues/NNBnh/sed-collections?labelColor=585858&color=F7CA88&style=flat-square"></a></p>
 
 ## 💡 About
-[`sed`](https://www.gnu.org/software/sed)
+[`sed`](https://en.wikipedia.org/wiki/Sed)
 
 ## ⌨️ Usage
 
