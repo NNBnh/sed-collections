@@ -1,5 +1,5 @@
 <h1 align="center">NNB's sed script collections</h1>
-<p align="center">The most ambitious sed script collections</p>
+<p align="center">My personal sed script collections</p>
 
 ## 💡 About
 This is a collection of [`sed scripts`](https://en.wikipedia.org/wiki/Sed) to help you [filter text files](https://en.wikipedia.org/wiki/Filter_(software)).
